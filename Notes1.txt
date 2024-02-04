@@ -125,8 +125,56 @@ Educate family about how to invest this.
 
 -- How to pick the best life insurance
 
+- IRDA Report
+• Annual report is 1 year delayed.
+• Claim Settlement Ratio - useless
+• Claim Settlement Ratio by amount - useless
+• Rejection / Repudiation - useless
+Rejection - rejected at 1st stage due to improper documentation,
+time consuming etc.
+Repudiation - rejected after investigation and processing of claim.
+• Useless as - Nothing depend on probability
+• Assets Under Management
+Money source used for giving claim money.
+Central govt. securities, State govt. & other securities, 
+housing infrastructure, others etc.
+• Maximum AUM - LIC, HDFC
+• Complaints Data
 
-Completed : TODO
+- Cannot reject you claim
+• If you have proper documentation
+• If you've maintained medical records
+• If you're Jagruk
+
+- Make your file stronger
+
+- Common Exclusions
+• Deaths not covered 
+
+- How to pick the best company?
+• Should have
+Good AUM, Brand Value, Backed by Strong Institutions,
+24 Hrs Claim Settlement, Fewer terms & conditions
+• Check for riders terms & conditions
+Should give rider over & above of base cover.
+
+- Things to Ask (to policy bazar agent)
+• Is rider cover available on top of base life cover?
+• Which illnesses will be covered?
+• Will full rider cover be given when diagnosd with illness?
+• Conditions under which rider cover won't be given
+• What kind of accidental disability is covered for these riders?
+• Other hidden conditions which I should know about
+* (When I will receive and when I not)
+
+- Important Thing
+• Disclose all things on taking policy
+• Take full body check, and do it every year and maintain in file.
+• Store it offline and tell the family.
+• Store it online and share google drive link to family.
+• Store it in digilocker and share credentials.
+• Store proof of first diagnose of disease.
+
 ------------------------------------------------------------------------------------------------------
 
 -- Term Insurance me agent/company kaise befakoof bana rahe he
