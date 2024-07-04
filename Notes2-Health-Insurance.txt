@@ -1,3 +1,6 @@
+Video : Ultimate Health Insurance Guide | The last video you need before buying policy!
+Link : https://www.youtube.com/watch?v=jpAY1f_1A5M
+
 - Introduction
 * Cost of 5 lac will jump to 5.7 lac in one year
 as medical inflation is 14%
@@ -22,10 +25,10 @@ Adults - 10 lac
 another floater policy for old person
 
 - Jhols
-* Sub Limits
+* (1) Sub Limits
 > 50 lac cover, but can't take whole cover for a diseases
 > Ideally policy shouldn't have any sub limit
-* Room rent cap
+* (2) Room rent cap
 > One day room rent cannot be 1% of sum assured
 (10,000 for 10 lac policy)
 > If one takes 12000 rent room and pays 2000 from his pocket.
@@ -36,5 +39,117 @@ bill, i.e., In 7 lac claim only 5.8 lac will be given.
 room rent cap.
 > Ideally policy shouldn't have any room rent cap
 > Should have option have treatment in any type of room
-* Co-pay (12:00)
-> 
+* (3) Co-pay (12:00)
+> Some policy has 20% or 30% co-pay.
+>> Means for 10 lac bill - 3 lac by personal pocket and 7 lac by insurance company
+>> There is no benefit of such a policy
+> Co-pay reality
+>> 20-30% is paid by pocket
+>> Also from remaining companies part is removed - room rent, disease sublimit etc.
+> In mentioned example for 15 lac policy, 10 lac was claimed and only 4 lac was given.
+* (4) Waiting period
+> 5 kinds
+1. Standard waiting period (30 days)
+> From buy date of policy.
+> Accidents should be allowed.
+2. Waiting period for critical illness (90 days)
+> Ask from policy bazar representative about duration of waiting period
+of critical illness. Also about list of ciritical illnesses included.
+> Maternity claim waiting period (9-36 months)
+>> Ask about this also.
+3. Waiting period for pre-existing diseases (3-4 years)
+> E.g. - diabetes, heart condition etc
+> This is why take policy when your are healthy
+4. Waiting period for slow growing diseases (2 years)
+> Even if you don't have these disease when taking policy
+> Treatments included
+E.N.T. Disorders
+Hernia
+Cataract
+Osteoprorsis
+Joint Replacement etc.
+5. Restoration of sum assured
+> If you exhausted cover within a year, then there will be anxiety
+for remaining months.
+> This restoration feature will restore cover to original amount for the
+remaining months.
+> Conditions possible are
+>> One-time restoration
+>> Cannot use restoration for same disease
+> Ask from policybazar executive about in which scenarios this feature 
+will not be in use for me. What will it not cover?
+6. Zonal vs Pan India policy
+> There can be game in zonal policy
+>> If address is of rural, then if treatment taken in urban, then there
+can be 20% co-pay applied.
+>> Should have taken city/urban policy
+> Today new age policy are Pan india policies
+7. Exclusions
+> Should ask from policybazar executive about "Give me a list of Exclusions".
+> Should know what treatments are not covered under policy.
+> Example - In a policy there are 35 exclusions.
+> Example - Any hospitalizations which are not Medically Necessary
+>> Most of claims are rejected over this point.
+
+- Biggest Jhol
+* Some company are only allowing cashless claims.
+* As if I got accident, then person can take me to any hospital
+> And also if I want to do a plan surgery in a different better hospital
+* POINT 1 : Should allow both cashless and reimbursement claims.
+* POINT 2 : Should allow can go to any hospital, whether network hospital or other
+hospital.
+* Cashless claim is always better.
+> As hospital will not give quality treatment.
+> And in most cases hospital will deny the treatment till half money is
+deposited by you.
+* There is a war b/w insurance companies and hospitals
+> Biggest loss is faced by patient, if we take cashless claims.
+
+- Important Features
+* Also need to see other features
+* Do a exercise finding insurance at policybazar.
+* Use filter as :
+* Cover : 10-24 lac
+* No room rent limit
+* Policy benefits
+1. Pre-hospitalization covered
+2. Post-hospitalization covered
+> As there are some expenses before and after the surgery/hospitalization
+3. Day care treatments
+4. No claim bonus
+> Must have benefit
+> Rewarded by increasing sum assured
+> Increases till a limit
+> Also confirm that if a claim is taken on a year, then this whole no claim bonus
+is erased/reset/rollback to original cover or not.
+5. Restoration benefits
+6. Free health checkup
+> Provides money or free at network hospitals
+> It does not touch the no claim bonus
+> This tests record will help in taking claim
+As many claims are rejected over pre existing diesease
+7. Doctor consultation and pharmacy
+* Premium (per month) : No preference
+* Portability : Buy new plan OR Port existing plan
+* Existing disease waiting period
+> Covered after 1 year
+* Policy period
+> 3 years
+* Select insurer
+> HDFC, Niva Bupa, Tata
+* You will not find any policy
+* Remove : Existing disease waiting period
+and set it to : No preference
+> Also Doctor consultation can be removed
+* Check about - Continuity Feature
+> Check for a clause about - policy invalid after 60 years of age.
+> But we get many disease after age 60, so we need policy to continue
+after 60 years of age.
+> Avoid such policies.
+
+- Topus vs Super Topup
+* These are individiual standalone policies
+
+Completed till 34:04
+
+
